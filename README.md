@@ -1,9 +1,11 @@
 # 自分に就いて / About me
 
 ## 言語 / Languages
-![日本語](./img/JA.svg)日本語
-![Français](./img/FR.svg)Français
-![English](./img/EN.svg)English
+![日本語](./img/JA.svg) **日本語**
+
+![Français](./img/FR.svg) **Français**
+
+![English](./img/EN.svg) **English**
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
